@@ -1,11 +1,36 @@
 # Data Science Projects 
 
-Welcome to my personal repo that contains some of the data science projects
+## About 
+Hello! I am Jesse Caldo, welcome to my personal repo that contains some of the data science projects
 I have worked on while pursuing my masters in data science.
 
-🔗 Visit the site here: [https://github.com/Jesse-Caldo](https://github.com/Jesse-Caldo)
-🔗 LinkedIn: [https://www.linkedin.com/in/jesse-caldo/](https://www.linkedin.com/in/jesse-caldo/)
-🔗 Updated Resume: [Resume](https://drive.google.com/file/d/1kwFTsUAheZsXZClHz5uuUfFXsK5ujGJ-/view?usp=sharing)
+This is hosted on **GitHub Pages** and built with basic HTML
+
+🔗 Visit the site here: [https://github.com/Jesse-Caldo](https://github.com/Jesse-Caldo)<br />
+🔗 LinkedIn: [https://www.linkedin.com/in/jesse-caldo/](https://www.linkedin.com/in/jesse-caldo/)<br />
+🔗 Updated Resume: [Resume](https://drive.google.com/file/d/1kwFTsUAheZsXZClHz5uuUfFXsK5ujGJ-/view?usp=sharing)<br />
+
+This repository highlights a handful of my data science projects which involves:
+- Exploratory Data Analysis (EDA)
+- Predictive Modeling
+- Data Visualization
+- Model Creation
+- Feature Selection
+
+## 📁Project Highlights
+### SARIMA ARIMA Profit Predictions
+Utilizing a SARIMA and ARIMA model to determine which model suits store sales. 
+Visualized using matplotlib and used mean absolute error (MAE), mean squared 
+error (MSE), r2 score for model evaluation 
+
+### Whitehouse Visitation Log
+Analyzed and visualized data containing frequency,
+party size, time of day/month/year visualized using matplotlib
+
+### House Price Predictor
+Used linear regression,
+random forest regressor and grid search
+to find the best parameters for random forest regressor 
 
 ## 📁Project Structure
 ├── [ALS Clustering](https://github.com/Jesse-Caldo/Portfolio/tree/main/ALS%20Custering)<br />
@@ -22,4 +47,4 @@ I have worked on while pursuing my masters in data science.
 └── [README.md](https://github.com/Jesse-Caldo/Portfolio/blob/main/README.md) # This file
 
 ## 📁Future Projects
-├── 
+├── TBD
