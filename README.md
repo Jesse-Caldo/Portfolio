@@ -7,7 +7,6 @@ I have worked on while pursuing my masters in data science.
 This is hosted on **GitHub Pages** and built with basic HTML
 
 🔗 Visit the site here: [https://github.com/Jesse-Caldo](https://github.com/Jesse-Caldo)<br />
-🔗 LinkedIn: [https://www.linkedin.com/in/jesse-caldo/](https://www.linkedin.com/in/jesse-caldo/)<br />
 🔗 Updated Resume: [Resume](https://drive.google.com/file/d/1kwFTsUAheZsXZClHz5uuUfFXsK5ujGJ-/view?usp=sharing)<br />
 
 This repository highlights a handful of my data science projects which involves:
@@ -48,3 +47,8 @@ to find the best parameters for random forest regressor
 
 ## 📁Future Projects
 ├── TBD
+
+
+## Contacts
+Email: Raeniel97@gmail.com </br>
+LinkedIn: [https://www.linkedin.com/in/jesse-caldo/](https://www.linkedin.com/in/jesse-caldo/)<br />
